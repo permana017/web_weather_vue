@@ -122,7 +122,7 @@
                 ],
                 weatherInpo: [],
                 weatherMany: [],
-                btnNumber: ["4", "14", "30"],
+                btnNumber: ["5", "14", "30"],
                 weatherNexTDay:[]
             }
         },
